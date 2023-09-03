@@ -84,3 +84,8 @@ nb-configuration.xml
 ## OS X
 ##############################
 .DS_Store
+
+##############################
+## NodeJs
+##############################
+dsa-js-practice/node_modules
