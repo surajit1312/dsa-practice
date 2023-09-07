@@ -10,6 +10,7 @@
     "basic-maths/p4-palindrome-number": "nodemon ./basic-maths/p4-palindrome-number.js",
     "basic-maths/p5-armstrong-number": "nodemon ./basic-maths/p5-armstrong-number.js",
     "basic-maths/p6-divisor-of-number": "nodemon ./basic-maths/p6-divisor-of-number.js",
+    "basic-maths/p7-is-prime-number": "nodemon ./basic-maths/p7-is-prime-number.js",
     "array/reverse-array": "nodemon ./array/easy/reverse-array.js"
   },
   "keywords": [],
