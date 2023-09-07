@@ -8,6 +8,7 @@
     "basic-maths/p2-count-digits": "nodemon ./basic-maths/p2-count-digits.js",
     "basic-maths/p3-reverse-number": "nodemon ./basic-maths/p3-reverse-number.js",
     "basic-maths/p4-palindrome-number": "nodemon ./basic-maths/p4-palindrome-number.js",
+    "basic-maths/p5-armstrong-number": "nodemon ./basic-maths/p5-armstrong-number.js",
     "array/reverse-array": "nodemon ./array/easy/reverse-array.js"
   },
   "keywords": [],
