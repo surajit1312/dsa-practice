@@ -9,6 +9,7 @@
     "basic-maths/p3-reverse-number": "nodemon ./basic-maths/p3-reverse-number.js",
     "basic-maths/p4-palindrome-number": "nodemon ./basic-maths/p4-palindrome-number.js",
     "basic-maths/p5-armstrong-number": "nodemon ./basic-maths/p5-armstrong-number.js",
+    "basic-maths/p6-divisor-of-number": "nodemon ./basic-maths/p6-divisor-of-number.js",
     "array/reverse-array": "nodemon ./array/easy/reverse-array.js"
   },
   "keywords": [],
