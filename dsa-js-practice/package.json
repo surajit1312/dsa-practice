@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "basic-maths/p1-extract-digits": "nodemon ./basic-maths/p1-extract-digits.js",
+    "basic-maths/p2-count-digits": "nodemon ./basic-maths/p2-count-digits.js",
     "array/reverse-array": "nodemon ./array/easy/reverse-array.js"
   },
   "keywords": [],
