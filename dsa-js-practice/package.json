@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "basic-maths/p1-extract-digits": "nodemon ./basic-maths/p1-extract-digits.js",
     "array/reverse-array": "nodemon ./array/easy/reverse-array.js"
   },
   "keywords": [],
