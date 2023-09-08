@@ -11,7 +11,8 @@
     "basic-maths/p5-armstrong-number": "nodemon ./basic-maths/p5-armstrong-number.js",
     "basic-maths/p6-divisor-of-number": "nodemon ./basic-maths/p6-divisor-of-number.js",
     "basic-maths/p7-is-prime-number": "nodemon ./basic-maths/p7-is-prime-number.js",
-    "basic-maths/p8-gcd-hcf-number.js": "nodemon ./basic-maths/p8-gcd-hcf-number.js",
+    "basic-maths/p8-gcd-hcf-number": "nodemon ./basic-maths/p8-gcd-hcf-number.js",
+    "recursion/p1-print-n-times": "nodemon ./recursion/p1-print-n-times.js",
     "array/reverse-array": "nodemon ./array/easy/reverse-array.js"
   },
   "keywords": [],
