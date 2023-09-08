@@ -20,7 +20,8 @@
     "recursion/p6-factorial-of-n": "nodemon ./recursion/p6-factorial-of-n.js",
     "recursion/p7-reverse-array": "nodemon ./recursion/p7-reverse-array.js",
     "recursion/p8-reverse-array-better": "nodemon ./recursion/p8-reverse-array-better.js",
-    "recursion/p9-check-palindrome": "nodemon ./recursion/p9-check-palindrome.js"
+    "recursion/p9-check-palindrome": "nodemon ./recursion/p9-check-palindrome.js",
+    "recursion/p10-generate-fibonacci-number": "nodemon ./recursion/p10-generate-fibonacci-number.js"
   },
   "keywords": [],
   "author": "",
