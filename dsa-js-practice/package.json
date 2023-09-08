@@ -13,6 +13,7 @@
     "basic-maths/p7-is-prime-number": "nodemon ./basic-maths/p7-is-prime-number.js",
     "basic-maths/p8-gcd-hcf-number": "nodemon ./basic-maths/p8-gcd-hcf-number.js",
     "recursion/p1-print-n-times": "nodemon ./recursion/p1-print-n-times.js",
+    "recursion/p2-print-name-times": "nodemon ./recursion/p2-print-name-times.js",
     "array/reverse-array": "nodemon ./array/easy/reverse-array.js"
   },
   "keywords": [],
