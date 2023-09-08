@@ -13,7 +13,7 @@ function printRecursive(name, n, count) {
     return printRecursive(name, n, count + 1);
 }
 
-const input1 = "Surajit";
+const input1 = "Coding Ninjas";
 const output1 = printName(input1, 5);
 
 const input2 = "Hello";
