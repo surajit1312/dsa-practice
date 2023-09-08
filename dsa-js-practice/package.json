@@ -15,6 +15,7 @@
     "recursion/p1-print-n-times": "nodemon ./recursion/p1-print-n-times.js",
     "recursion/p2-print-name-times": "nodemon ./recursion/p2-print-name-times.js",
     "recursion/p3-print-1-to-n-backtrack": "nodemon ./recursion/p3-print-1-to-n-backtrack.js",
+    "recursion/p4-print-n-to-1-backtrack": "nodemon ./recursion/p4-print-n-to-1-backtrack.js",
     "array/reverse-array": "nodemon ./array/easy/reverse-array.js"
   },
   "keywords": [],

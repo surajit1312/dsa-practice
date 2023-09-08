@@ -1,21 +1,21 @@
 "use strict";
 
 /**
- * Print 1 to n using recursion backtracking (call to i + 1 not allowed)
+ * Print n to 1 using recursion backtracking (call to i - 1 not allowed)
  * Time Complexity - O(n)
  * Space Complexity - O(n)
  * @param {*} n 
  * @returns 
  */
 function printNumberBacktrack(n) {
-    printRecursiveBacktrack(n, n);
+    printRecursiveBacktrack(n, 1);
 }
 
 function printRecursiveBacktrack(n, i) {
-    if (n <= 0 || i <= 0) {
+    if (n <= 0 || i > n) {
         return;
     }
-    printRecursiveBacktrack(n, i - 1);
+    printRecursiveBacktrack(n, i + 1);
     console.log(i);
 }
 

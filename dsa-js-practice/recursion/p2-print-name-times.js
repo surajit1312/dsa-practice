@@ -1,5 +1,13 @@
 "use strict";
 
+/**
+ * Print name n times
+ * Time Complexity - O(n)
+ * Space Complexity - O(n)
+ * @param {*} name 
+ * @param {*} n 
+ * @returns 
+ */
 function printName(name, n) {
     return printRecursive(name, n, 1);
 }
