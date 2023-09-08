@@ -17,6 +17,7 @@
     "recursion/p3-print-1-to-n-backtrack": "nodemon ./recursion/p3-print-1-to-n-backtrack.js",
     "recursion/p4-print-n-to-1-backtrack": "nodemon ./recursion/p4-print-n-to-1-backtrack.js",
     "recursion/p5-sum-of-n-numbers": "nodemon ./recursion/p5-sum-of-n-numbers.js",
+    "recursion/p6-factorial-of-n": "nodemon ./recursion/p6-factorial-of-n.js",
     "array/reverse-array": "nodemon ./array/easy/reverse-array.js"
   },
   "keywords": [],
