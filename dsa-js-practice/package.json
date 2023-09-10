@@ -24,7 +24,8 @@
     "recursion/p10-generate-fibonacci-number": "nodemon ./recursion/p10-generate-fibonacci-number.js",
     "hashing/p1-count-frequency-numbers": "nodemon ./hashing/p1-count-frequency-numbers.js",
     "sorting/p1-selection-sort": "nodemon ./sorting/p1-selection-sort.js",
-    "sorting/p2-bubble-sort": "nodemon ./sorting/p2-bubble-sort.js"
+    "sorting/p2-bubble-sort": "nodemon ./sorting/p2-bubble-sort.js",
+    "sorting/p3-insertion-sort": "nodemon ./sorting/p3-insertion-sort.js"
   },
   "keywords": [],
   "author": "",
