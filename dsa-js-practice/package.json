@@ -22,7 +22,8 @@
     "recursion/p8-reverse-array-better": "nodemon ./recursion/p8-reverse-array-better.js",
     "recursion/p9-check-palindrome": "nodemon ./recursion/p9-check-palindrome.js",
     "recursion/p10-generate-fibonacci-number": "nodemon ./recursion/p10-generate-fibonacci-number.js",
-    "hashing/p1-count-frequency-numbers": "nodemon ./hashing/p1-count-frequency-numbers.js"
+    "hashing/p1-count-frequency-numbers": "nodemon ./hashing/p1-count-frequency-numbers.js",
+    "sorting/p1-selection-sort": "nodemon ./sorting/p1-selection-sort.js"
   },
   "keywords": [],
   "author": "",
